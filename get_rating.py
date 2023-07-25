@@ -1,3 +1,8 @@
+import math
+
+_MIN_STARS = 100
+_MAX_STARS = 300
+
 def main():
     """
     Asks the user to input the rating of the movie and
