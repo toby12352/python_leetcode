@@ -8,7 +8,6 @@ def test_main():
     #     print("Must be a positive whole number.")
     #     movie_rating = input(f"Enter a rating {_MIN_STARS}-{_MAX_STARS}: ")
     # return math.floor(float(movie_rating))
-    print("TEST COMPELTE")
-    a
+    print("What's up")
 
 test_main()
